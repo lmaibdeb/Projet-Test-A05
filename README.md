@@ -2,3 +2,6 @@
 Ce projet permet de se familiariser avec GitHub
 ## Partie 1:
 Faire des commits
+
+## Vérifier notre commit
+Vérification du network
